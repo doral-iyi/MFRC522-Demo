@@ -7,4 +7,4 @@ To demonstrate the use of the MFRC522 RFID Reader & Writer.
  * MFRC522 Sensor
 
 ## Getting Started
-Refer to [Getting Started][getting-started/README.md].
+Refer to [Getting Started](getting-started/README.md).
