@@ -8,3 +8,11 @@ To demonstrate the use of the MFRC522 RFID Reader & Writer.
 
 ## Getting Started
 Refer to [Getting Started](getting-started/README.md).
+
+## Uses
+RFID is used in a multitude of cases. These include:
+
+ * Security Systems
+ * Attendance Systems
+ * Location Tracking
+ * Payment
