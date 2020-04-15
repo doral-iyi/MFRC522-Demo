@@ -3,6 +3,7 @@ For more information about MFRC522 please refer to the [library](https://github.
 
 ## Pin Layout
 For all other Arduinos other than ESP8266 (NodeMCU), refer to the library. For NodeMCU:
+
 	SDA  -> SS_PIN  -> D2
 	SCK  -> D5
 	MOSI -> D7
