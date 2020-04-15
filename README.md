@@ -3,7 +3,7 @@
 To demonstrate the use of the MFRC522 RFID Reader & Writer.
 
 ## Bill-of-Materials
- * Arduino
+ * Arduino (pref. NodeMCU)
  * MFRC522 Sensor
 
 ## Getting Started
