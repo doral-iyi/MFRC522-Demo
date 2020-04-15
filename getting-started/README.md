@@ -2,7 +2,7 @@
 For more information about MFRC522 please refer to the [library](https://github.com/miguelbalboa/rfid).
 
 ## Pin Layout
-For all other Arduinos other than ESP8266 (NodeMCU), refer to the library. For NodeMCU ( [Fritzing file](Fritzing/RFID & NodeMCU.fzz) also available):
+For all other Arduinos other than ESP8266 (NodeMCU), refer to the library. For NodeMCU ([Fritzing file](Fritzing/RFID-and-NodeMCU.fzz) also available):
 
 	SDA  -> SS_PIN  -> D2
 	SCK  -> D5
