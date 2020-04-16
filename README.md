@@ -16,5 +16,3 @@ RFID is used in a multitude of cases. These include:
  * Attendance Systems
  * Location Tracking
  * Payment Systems
-
-THIS IS AN EXAMPLE EDIT
